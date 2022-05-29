@@ -14,5 +14,5 @@ Install all the requirements mentioned in the requirements.txt also the runserve
 
 Note : A face is recognised only if face detection score is greatear than 0.7 and identified only if face score is greater than 0.44. I had kept these constraints for better results. So uploading the good quality images is suggested for better results.
 
-I had uploaded the webpage screenshots in the ScreenShots folder in repository.
-In the Testing Pictures Folder You can see some sample pictures used for testing the webapp
+I had uploaded the webpage "ScreenShots" in the ScreenShots folder in repository.
+In the "Testing Pictures" Folder You can see some pictures used for testing the webapp
